@@ -1,2 +1,4 @@
 print('Hello World')
-a=input('asasdasdasdas')
+print('Hello World')
+print('Hello World')
+print('Hello World')
